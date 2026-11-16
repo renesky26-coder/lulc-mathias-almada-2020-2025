@@ -1,0 +1,6 @@
+conjunto,ano,classe_id,classe_nome,n_mapa,n_referencia,VP,FP,FN,VN,UA_pct,erro_comissao_pct,PA_pct,erro_omissao_pct,F1_pct,especificidade_pct,acuracia_binaria_pct,IoU_pct,kappa_cond_usuario,kappa_cond_produtor
+CV_poligono_5folds,2020,1,Vegetação Densa,516,516,515,1,1,2743,99.81,0.19,99.81,0.19,99.81,99.96,99.94,99.61,0.9977,0.9977
+CV_poligono_5folds,2020,2,Vegetação Rasteira,491,521,486,5,35,2734,98.98,1.02,93.28,6.72,96.05,99.82,98.77,92.4,0.9879,0.9209
+CV_poligono_5folds,2020,3,Água,37,32,30,7,2,3221,81.08,18.92,93.75,6.25,86.96,99.78,99.72,76.92,0.8089,0.9368
+CV_poligono_5folds,2020,4,Solo Exposto,774,1114,758,16,356,2130,97.93,2.07,68.04,31.96,80.3,99.25,88.59,67.08,0.9686,0.5809
+CV_poligono_5folds,2020,5,Área Urbana,1442,1077,1050,392,27,1791,72.82,27.18,97.49,2.51,83.37,82.04,87.15,71.48,0.594,0.955

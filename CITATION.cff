@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "Se usar estes scripts ou dados, cite assim."
+title: "Uso e cobertura da terra e expansão urbana na bacia do rio Mathias Almada (Foz do Iguaçu, PR), 2020–2025: scripts GEE e PyQGIS"
+authors:
+  - family-names: "Jean Mary"
+    given-names: "Renesky"
+type: software
+doi: "10.5281/zenodo.24286156"
+license: MIT
+version: "1.0.0"
+date-released: "2026-11-16"
+repository-code: "https://github.com/renesky26-coder/lulc-mathias-almada-2020-2025"
+keywords: [LULC, Sentinel-2, Google Earth Engine, Random Forest, NDBI, HAND, Olofsson, Foz do Iguaçu]

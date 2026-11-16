@@ -1,0 +1,5 @@
+conjunto,ano,classe_id,classe_nome,n_mapa,n_referencia,VP,FP,FN,VN,UA_pct,UA_IC95_pct,erro_comissao_pct,PA_pct,PA_IC95_pct,erro_omissao_pct,F1_pct,especificidade_pct,acuracia_binaria_pct,IoU_pct,kappa_cond_usuario,kappa_cond_produtor
+LULC4cl_pontos_independentes,2020,1,Vegetação Densa,50,58,44,6,14,156,88,9.1,12,75.86,11.11,24.14,81.48,96.3,90.91,68.75,0.837,0.6876
+LULC4cl_pontos_independentes,2020,2,Vegetação rasteira e solo exposto,100,103,86,14,17,103,86,6.84,14,83.5,7.2,16.5,84.73,88.03,85.91,73.5,0.7368,0.6974
+LULC4cl_pontos_independentes,2020,3,Água,20,11,11,9,0,200,55,22.37,45,100,0,0,70.97,95.69,95.91,55,0.5263,1
+LULC4cl_pontos_independentes,2020,5,Área Urbana,50,48,41,9,7,163,82,10.76,18,85.42,10.09,14.58,83.67,94.77,92.73,71.93,0.7698,0.8113

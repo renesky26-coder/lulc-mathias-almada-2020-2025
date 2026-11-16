@@ -1,0 +1,2 @@
+conjunto,ano,n_amostras,OA_amostral_pct,erro_global_amostral_pct,Kappa_amostral,Kappa_amostral_LandisKoch,UA_media_pct,PA_media_pct,F1_macro_pct,QD_amostral_pct,AD_amostral_pct
+CV_poligono_5folds,2020,3260,87.09,12.91,0.8215,Quase perfeita,90.12,90.47,89.29,11.35,1.56

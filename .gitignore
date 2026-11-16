@@ -1,0 +1,19 @@
+# Rasters e dados pesados (gerar de novo com os scripts)
+*.tif
+*.tiff
+*.aux.xml
+*.SAFE/
+*.zip
+# QGIS / R / Python
+*.qgz~
+.Rhistory
+.RData
+.RDataTmp
+.Rproj.user/
+__pycache__/
+*.pyc
+# Logs e testes locais
+log_*.txt
+probe*.txt
+# Documentos de manuscrito
+*.docx

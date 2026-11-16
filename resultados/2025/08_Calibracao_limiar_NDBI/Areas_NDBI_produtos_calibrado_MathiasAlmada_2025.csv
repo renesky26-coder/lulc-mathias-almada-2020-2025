@@ -1,0 +1,10 @@
+ano,produto,classe,classe_nome,area_ha,area_pct,limiar_calibrado
+2025,Zha et al. (2003),0,Não construído,3607.436079201564,99.69060264784548,-0.03
+2025,Zha et al. (2003),1,Construído/impermeável,11.195951689312505,0.3093973521966774,-0.03
+2025,Muhaimin et al. (2022),1,Não construído (NDBI < 0),1542.0368950968714,42.613807702304854,-0.03
+2025,Muhaimin et al. (2022),2,"Transição (0 a 0,2)",1931.2426422619467,53.369412136323604,-0.03
+2025,Muhaimin et al. (2022),3,"Construído (NDBI > 0,2)",145.35249352748204,4.016780161308345,-0.03
+2025,NDBI calibrado,0,Não construído,1306.7793984835373,36.11252504616698,-0.03
+2025,NDBI calibrado,1,Construído/impermeável,2311.852632405049,63.88747495381192,-0.03
+2025,NDBI refinado,0,Não construído,2093.298768231455,57.847793043435495,-0.03
+2025,NDBI refinado,1,Construído/impermeável,1525.3332626578956,42.1522069566067,-0.03

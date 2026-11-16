@@ -1,0 +1,5 @@
+ano,classe_id,classe_nome,n_pontos_mapa,peso_Wi,area_mapa_ha,area_mapa_pct,area_ajustada_ha,area_ajustada_pct,area_ajustada_IC95_ha,area_ajustada_min_ha,area_ajustada_max_ha,diferenca_ajustada_menos_mapa_ha,UA_pond_pct,UA_pond_IC95_pct,erro_comissao_pond_pct,PA_pond_pct,PA_pond_IC95_pct,erro_omissao_pond_pct,F1_pond_pct
+2025,1,Vegetação Densa,50,0.1246,450.88,12.46,718.28,19.85,138.66,579.63,856.94,267.4,98,3.92,2,61.52,11.82,38.48,75.59
+2025,2,Vegetação rasteira e solo exposto,100,0.460495,1666.36,46.05,1426.25,39.41,189.03,1237.22,1615.29,-240.11,76,8.41,24,88.79,7.97,11.21,81.9
+2025,3,Água,20,0.00183,6.62,0.18,5.3,0.15,1.19,4.11,6.49,-1.32,80,17.99,20,100,0,0,88.89
+2025,5,Área Urbana,50,0.413075,1494.77,41.31,1468.8,40.59,177.87,1290.92,1646.67,-25.97,86,9.72,14,87.52,6.24,12.48,86.75

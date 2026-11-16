@@ -1,0 +1,6 @@
+tabela,classe_mapa_id,classe_mapa_nome,ref_1,ref_2,ref_3,ref_5,total
+T1_contagens,1,Vegetação Densa,49,1,0,0,50
+T1_contagens,2,Vegetação rasteira e solo exposto,13,76,0,11,100
+T1_contagens,3,Água,0,4,16,0,20
+T1_contagens,5,Área Urbana,2,5,0,43,50
+T1_contagens,-1,Total referência,64,86,16,54,220

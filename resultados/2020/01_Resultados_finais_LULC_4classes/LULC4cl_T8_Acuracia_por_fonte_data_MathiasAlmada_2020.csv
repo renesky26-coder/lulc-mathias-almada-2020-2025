@@ -1,0 +1,4 @@
+conjunto,agrupamento,valor,n_pontos,n_acertos,OA_amostral_pct,OA_IC95_pct
+LULC4cl,ref_date,06/06/20,25,21,84,14.67
+LULC4cl,ref_date,14/06/20,151,129,85.43,5.65
+LULC4cl,ref_date,21/02/20,44,32,72.73,13.31

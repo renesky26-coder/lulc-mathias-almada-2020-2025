@@ -1,0 +1,4 @@
+tabela,classe_mapa_id,classe_mapa_nome,ref_0,ref_1,total
+T1_contagens,0,Não construído,41,9,50
+T1_contagens,1,Construído/impermeável,9,41,50
+T1_contagens,-1,Total referência,50,50,100

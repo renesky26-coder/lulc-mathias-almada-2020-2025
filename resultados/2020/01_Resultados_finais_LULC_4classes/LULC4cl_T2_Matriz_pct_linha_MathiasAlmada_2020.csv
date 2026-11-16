@@ -1,0 +1,6 @@
+tabela,classe_mapa_id,classe_mapa_nome,ref_1,ref_2,ref_3,ref_5,total
+T2_pct_linha_usuario,1,Vegetação Densa,88,8,0,4,100
+T2_pct_linha_usuario,2,Vegetação rasteira e solo exposto,9,86,0,5,100
+T2_pct_linha_usuario,3,Água,20,25,55,0,100
+T2_pct_linha_usuario,5,Área Urbana,2,16,0,82,100
+T2_pct_linha_usuario,-1,Total referência,119,135,55,91,400

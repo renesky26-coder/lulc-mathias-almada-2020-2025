@@ -1,0 +1,17 @@
+MAPEAMENTO LULC 2020 - BACIA DO RIO MATHIAS ALMADA (Sentinel-2, jun-out/2020)
+
+00_Scripts_GEE ............ Parte1 (mosaico), Parte2 (MAPEAR), Parte3 (VALIDAR, 4 classes)
+01_Resultados_finais ...... RESULTADOS OFICIAIS DO TCC (LULC 4 classes, Olofsson et al., 2014)
+                            T1 matriz | T2/T3 % linha/coluna | T4 proporcoes de area
+                            T5 metricas amostrais | T6 areas ajustadas + IC95 | T7 globais
+                            T8 acuracia por data da referencia | T9 pares ponto a ponto
+02_Justificativa .......... LULC 5 classes (justifica juntar Veg. Rasteira + Solo Exposto)
+03_Validacao_NDBI ......... T1 a T7 e T9 do NDBI binario (produto refinado)
+04_Pontos_referencia ...... CSV ROTULADOS (ref_classe, ref_date / ref_NDBI) + KML - NAO ALTERAR
+05_Metadados_imagens ...... 14 cenas Sentinel-2 usadas no mosaico
+06_Apoio_limiares_Parte1 .. areas do NDBI pelos limiares da literatura (Zha, Muhaimin, Otsu)
+07_Validacao_cruzada ...... CV por poligono (5 folds) e areas do mapa 5 classes (sem ajuste)
+08_Calibracao_limiar_NDBI . curva de limiares, percentis por classe, areas dos produtos NDBI
+                            LIMIAR CALIBRADO 2020 = -0.03 (usar em LIMIAR_NDBI_FIXO no script de 2025)
+09_Mapas_GeoTIFF .......... (baixar do Drive: LULC_4classes, LULC_classificacao, NDBI_produtos, NDBI_continuo)
+10_SHP_pontos_validacao ... (baixar do Drive: LULC4cl_T9_Pares_SHP e NDBI_T9_Pares_SHP)

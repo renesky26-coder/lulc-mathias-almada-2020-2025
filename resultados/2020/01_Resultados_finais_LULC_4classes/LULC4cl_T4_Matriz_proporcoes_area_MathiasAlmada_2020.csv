@@ -1,0 +1,6 @@
+tabela,classe_mapa_id,classe_mapa_nome,ref_1,ref_2,ref_3,ref_5,total
+T4_proporcoes_area,1,Vegetação Densa,0.129693,0.01179,0,0.005895,0.147379
+T4_proporcoes_area,2,Vegetação rasteira e solo exposto,0.035345,0.33774,0,0.019636,0.392721
+T4_proporcoes_area,3,Água,2.88E-4,3.6E-4,7.92E-4,0,0.001439
+T4_proporcoes_area,5,Área Urbana,0.009169,0.073354,0,0.375938,0.458461
+T4_proporcoes_area,-1,Total referência,0.174495,0.423244,7.92E-4,0.40147,1

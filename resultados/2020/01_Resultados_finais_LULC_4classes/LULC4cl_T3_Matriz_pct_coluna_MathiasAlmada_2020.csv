@@ -1,0 +1,6 @@
+tabela,classe_mapa_id,classe_mapa_nome,ref_1,ref_2,ref_3,ref_5,total
+T3_pct_coluna_produtor,1,Vegetação Densa,75.86,3.88,0,4.17,83.91
+T3_pct_coluna_produtor,2,Vegetação rasteira e solo exposto,15.52,83.5,0,10.42,109.43
+T3_pct_coluna_produtor,3,Água,6.9,4.85,100,0,111.75
+T3_pct_coluna_produtor,5,Área Urbana,1.72,7.77,0,85.42,94.91
+T3_pct_coluna_produtor,-1,Total referência,100,100,100,100,400

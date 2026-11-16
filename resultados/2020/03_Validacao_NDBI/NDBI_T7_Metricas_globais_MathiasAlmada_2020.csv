@@ -1,0 +1,2 @@
+conjunto,ano,n_amostras,n_acertos,OA_amostral_pct,OA_amostral_IC95_pct,erro_global_amostral_pct,Kappa_amostral,Kappa_amostral_LandisKoch,UA_media_pct,PA_media_pct,F1_macro_pct,QD_amostral_pct,AD_amostral_pct,OA_pond_pct,OA_pond_IC95_pct,OA_pond_min_pct,OA_pond_max_pct,erro_global_pond_pct,Kappa_pond,Kappa_pond_LandisKoch,UA_media_pond_pct,PA_media_pond_pct,F1_macro_pond_pct,QD_pond_pct,AD_pond_pct,area_total_ha
+NDBI_pontos_independentes,2020,100,82,82,7.57,18,0.64,Substancial,82,82,82,0,18,82,7.84,74.16,89.84,18,0.6251,Substancial,82,80.79,81.21,4.49,13.51,3618.63

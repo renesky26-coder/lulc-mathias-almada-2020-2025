@@ -1,0 +1,2 @@
+conjunto,ano,n_amostras,OA_amostral_pct,erro_global_amostral_pct,Kappa_amostral,Kappa_amostral_LandisKoch,UA_media_pct,PA_media_pct,F1_macro_pct,QD_amostral_pct,AD_amostral_pct
+CV_poligono_5folds,2025,3936,85.01,14.99,0.7946,Substancial,91,88.73,89.04,10.44,4.55

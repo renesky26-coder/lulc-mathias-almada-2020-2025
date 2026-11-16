@@ -1,0 +1,3 @@
+conjunto,ano,classe_id,classe_nome,n_mapa,n_referencia,VP,FP,FN,VN,UA_pct,UA_IC95_pct,erro_comissao_pct,PA_pct,PA_IC95_pct,erro_omissao_pct,F1_pct,especificidade_pct,acuracia_binaria_pct,IoU_pct,kappa_cond_usuario,kappa_cond_produtor
+NDBI_pontos_independentes,2020,0,Não construído,50,50,41,9,9,41,82,10.76,18,82,10.76,18,82,82,82,69.49,0.64,0.64
+NDBI_pontos_independentes,2020,1,Construído/impermeável,50,50,41,9,9,41,82,10.76,18,82,10.76,18,82,82,82,69.49,0.64,0.64

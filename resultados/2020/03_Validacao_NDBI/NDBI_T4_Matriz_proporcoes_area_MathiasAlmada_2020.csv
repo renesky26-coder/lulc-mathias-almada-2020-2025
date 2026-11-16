@@ -1,0 +1,4 @@
+tabela,classe_mapa_id,classe_mapa_nome,ref_0,ref_1,total
+T4_proporcoes_area,0,Não construído,0.512328,0.112462,0.62479
+T4_proporcoes_area,1,Construído/impermeável,0.067538,0.307672,0.37521
+T4_proporcoes_area,-1,Total referência,0.579866,0.420134,1

@@ -1,0 +1,4 @@
+tabela,classe_mapa_id,classe_mapa_nome,ref_0,ref_1,total
+T2_pct_linha_usuario,0,Não construído,82,18,100
+T2_pct_linha_usuario,1,Construído/impermeável,18,82,100
+T2_pct_linha_usuario,-1,Total referência,100,100,200
